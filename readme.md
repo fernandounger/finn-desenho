@@ -1,6 +1,6 @@
 # Desenho Finn Hora de Aventura
 
-![](./img/finn.jpg)
+![](./img/finn.gif)
 
 - Tecnologias usadas:
     * HTML
